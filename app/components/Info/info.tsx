@@ -30,7 +30,7 @@ function Info() {
                 Thank you!
               </h3>
               <p className="text-4xl md:text-2xl font-semibold mb-3 text-white">
-                  We'll send you an XE-Token transaction receipt
+              سوف نرسل لك إيصال معاملة XE-Token
                 </p>
               <div className="flex items-center">
                 {/* <button

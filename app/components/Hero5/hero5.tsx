@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 export default function Hero5() {
   return (
@@ -24,10 +25,10 @@ export default function Hero5() {
 
       {/* Right Section (Image) */}
       <div className="w-full xl:w-1/2 h-screen flex items-center justify-center">
-        <img
+        <Image
           className="object-cover w-full h-screen"
-          src="./assets/banner/art.jpg"
-          alt=""
+          src={"./assets/banner/art.jpg"}
+          alt= "one"
         />
       </div>
     </main>

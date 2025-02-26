@@ -1,12 +1,13 @@
 import React from 'react'
+import Image from "next/image";
 
 function hero3() {
   return (
     <main className="flex flex-col xl:flex-row h-screen">
   <div className="w-full xl:w-1/2 h-screen">
-    <img
+    <Image
       className="object-cover w-full h-screen mb-6"
-      src="./assets/banner/office.jpg"
+      src={"./assets/banner/office.jpg"}
       alt="Robot Group"
     />
   </div>

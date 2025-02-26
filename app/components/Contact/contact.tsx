@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 const ContactForm = () => {
   return (
@@ -12,8 +13,8 @@ const ContactForm = () => {
               <div className="lg:mb-0 mb-10">
                 <div className="group w-full h-full">
                   <div className="relative h-full">
-                    <img
-                      src="https://pagedone.io/asset/uploads/1696488602.png"
+                    <Image
+                      src={"https://pagedone.io/asset/uploads/1696488602.png"}
                       alt="ContactUs tailwind section"
                       className="w-full h-full lg:rounded-l-2xl rounded-2xl bg-blend-multiply bg-indigo-700"
                     />
