@@ -60,7 +60,7 @@ const Signin = () => {
                                                     alt="Company"
                                                 />
                                                 <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
-                                                "سجل الدخول إلى حسابك"
+                                                سجل الدخول إلى حسابك
                                                 </h2>
                                             </div>
                                             <form className="mt-8 space-y-6" action="#" method="POST">

@@ -10,7 +10,7 @@ function hero4() {
                 <span>نحن نضمن أن قيمة عملتك تكتسب بمرور الوقت</span>
             </h1>
             <p className="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24">
-            "من خلال الخبرة العميقة في مجال تداول العملات المشفرة والأبحاث، نقوم بتصميم وتنفيذ استراتيجيات لتنمية محفظتنا الاستثمارية، ونحن ندعوك للانضمام إلينا في هذه الرحلة.
+            من خلال الخبرة العميقة في مجال تداول العملات المشفرة والأبحاث، نقوم بتصميم وتنفيذ استراتيجيات لتنمية محفظتنا الاستثمارية، ونحن ندعوك للانضمام إلينا في هذه الرحلة.
             </p>
             {/* <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">
                 <a href="#_" className="inline-flex items-center justify-center w-full px-6 py-3 mb-2 text-lg text-white bg-green-400 rounded-2xl sm:w-auto sm:mb-0">
